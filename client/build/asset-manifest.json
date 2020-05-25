@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nationalpark-frontend/static/css/main.e32eae89.chunk.css",
+    "main.js": "/nationalpark-frontend/static/js/main.fd49860e.chunk.js",
+    "main.js.map": "/nationalpark-frontend/static/js/main.fd49860e.chunk.js.map",
+    "runtime-main.js": "/nationalpark-frontend/static/js/runtime-main.92c46200.js",
+    "runtime-main.js.map": "/nationalpark-frontend/static/js/runtime-main.92c46200.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/nationalpark-frontend/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bffafad7.chunk.js": "/nationalpark-frontend/static/js/2.bffafad7.chunk.js",
+    "static/js/2.bffafad7.chunk.js.map": "/nationalpark-frontend/static/js/2.bffafad7.chunk.js.map",
+    "index.html": "/nationalpark-frontend/index.html",
+    "precache-manifest.08c5d55b915a1e8f610307304e083216.js": "/nationalpark-frontend/precache-manifest.08c5d55b915a1e8f610307304e083216.js",
+    "service-worker.js": "/nationalpark-frontend/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/nationalpark-frontend/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e32eae89.chunk.css.map": "/nationalpark-frontend/static/css/main.e32eae89.chunk.css.map",
+    "static/js/2.bffafad7.chunk.js.LICENSE.txt": "/nationalpark-frontend/static/js/2.bffafad7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c46200.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bffafad7.chunk.js",
+    "static/css/main.e32eae89.chunk.css",
+    "static/js/main.fd49860e.chunk.js"
+  ]
+}
