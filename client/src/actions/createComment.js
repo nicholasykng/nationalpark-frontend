@@ -1,6 +1,6 @@
 export const createComment = (comment) => {
     return dispatch => {
-        return fetch(`http://localhost:3000/parks/${comment.park_id}/comments`, {
+        return fetch(`https://national-park.herokuapp.com/${comment.park_id}/comments`, {
             method: "POST",
             headers: {
                 "Content-Type": 'application/json'
